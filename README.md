@@ -68,11 +68,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=764ba2&icon_color=667eea&text_color=c9d1d9)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=764ba2&text_color=c9d1d9)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=764ba2&fire=667eea&currStreakLabel=c9d1d9)](https://git.io/streak-stats)
-
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight)
+![Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 ---
