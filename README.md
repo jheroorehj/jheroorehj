@@ -68,9 +68,10 @@
 
 <div align="center">
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight)
-![Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jheroorehj&theme=tokyonight)
+![Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jheroorehj&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=jheroorehj&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 ---
