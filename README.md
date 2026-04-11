@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hello%2C%20I'm%20영웅%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=CS%20Undergrad%20%7C%20HCI%20Researcher%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=55&descColor=e0e0ff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hello%2C%20I'm%20영웅%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=CS%20Senior%20%7C%20HCI%20Researcher%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=55&descColor=e0e0ff)
 
 <div align="center">
 
@@ -12,15 +12,14 @@
 
 ## 🧑‍💻 About Me
 
-> **"기술과 사람 사이의 접점을 연구하고 만듭니다."**
+> **"나의 꿈은 내 손에서 현실이 된다."**
 
-강원대학교 컴퓨터과학과 학부생으로, **HCI 연구실 학부 연구원**이자 **TA**로 활동하고 있습니다.  
-사람이 기술을 어떻게 경험하는지에 관심이 많고, 그 고민을 코드로 풀어내는 걸 좋아합니다.
+사람들의 경험을 자산으로 만들고 싶습니다.  
+상상에 머물던 것을 현실로 끌어내고, 흘러가는 영감을 붙잡는 개발자가 되고 싶습니다.
 
-- 🔬 **연구 관심사**: 건강 행동 컴퓨팅, 행동경제학 기반 예측, 의료 AI 시스템
-- 🏥 **캡스톤**: 강원도 농어촌 만성질환 자동 스크리닝 시스템 (BLE 디바이스 + AI 트리아지)
-- 🍽️ **사이드 프로젝트**: 지중해식 식단 기반 감정-음식 앱 (다마고치 캐릭터 성장 시스템)
-- 🎳 볼링 동아리 운영 (투핸드 볼러) | 🏀 농구 파워포워드
+- 🏫 **KNU** 컴퓨터공학과 4학년 · **P4C Lab** 학부 연구생
+- `2025.10 - 2025.12` **키컴** 더존ICT그룹 인턴
+- `2026.01 - 2026.02` **Upstage AI** 해커톤 4th - 일본 연수 참여
 
 ---
 
@@ -59,12 +58,13 @@
 
 ## 🚀 Featured Projects
 
+<!-- 아래 테이블에 프로젝트를 직접 추가/수정하세요 -->
+
 | 프로젝트 | 설명 | 기술 스택 |
 |:---:|:---|:---|
-| 🏥 **만성질환 AI 트리아지** | 강원도 농어촌 환자 추적관찰 자동 스크리닝 시스템. 법원식 토론 프레임워크 기반 멀티 에이전트 | `FastAPI` `LangGraph` `BLE` |
-| 📊 **WildCard** | 투자 손실 분석 플랫폼. LangGraph 멀티 에이전트 워크플로우 | `LangGraph` `FastAPI` `ChromaDB` `Solar Pro 2` |
-| 🍲 **Mood Food App** | 지중해식 식단 × 감정 기반 다마고치 캐릭터 성장 시스템 | `React` `FastAPI` |
-| 💼 **기업 재무 모니터링** | OpenDART API 기반 42개 CRUD · 9개 KPI 대시보드 (키컴 인턴) | `React` `Express.js` `MySQL` |
+| 🔧 **프로젝트명** | 프로젝트 설명을 여기에 작성하세요 | `스택1` `스택2` |
+| 🔧 **프로젝트명** | 프로젝트 설명을 여기에 작성하세요 | `스택1` `스택2` |
+| 🔧 **프로젝트명** | 프로젝트 설명을 여기에 작성하세요 | `스택1` `스택2` |
 
 ---
 
@@ -83,16 +83,17 @@
 
 ## 📚 Currently
 
-- 🔭 행동경제학 기반 편향 집단 예측 가능성 연구 진행 중
-- 🌱 HCI 문헌 리뷰 — 건강 행동 컴퓨팅 개입 설계
-- 📝 2,500년치 아이디어 발상법 레퍼런스 시스템 구축 중
-- 🎯 의료 AI × FHIR 인프라 접점 탐색
+<!-- 지금 하고 있는 것들을 직접 채워주세요 -->
+- 🔭 ...
+- 🌱 ...
+- 🎯 ...
 
 ---
 
 <div align="center">
 
-*"개별 경제 행동은 무작위하지만, 편향의 군집은 예측 가능하다."*
+<!-- 좋아하는 문구가 있다면 여기에 넣어주세요 -->
+*"여기에 한 줄 문구를 넣어보세요"*
 
 </div>
 
