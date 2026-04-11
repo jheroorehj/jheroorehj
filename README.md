@@ -1,10 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hello%2C%20I'm%20영웅%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=CS%20Senior%20%7C%20HCI%20Researcher%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=55&descColor=e0e0ff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hello%2C%20I'm%20YEONGUNG%20JANG%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=CS%20Senior%20%7C%20HCI%20Researcher%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=55&descColor=e0e0ff)
 
 <div align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_USERNAME&count_bg=%23764ba2&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Gmail Badge](https://img.shields.io/badge/-your.email@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@YOUR_USERNAME)
 
 </div>
 
