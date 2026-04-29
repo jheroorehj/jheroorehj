@@ -8,12 +8,13 @@
 
 ## 🧑‍💻 About Me
 
-> **"나의 꿈은 내 손에서 현실이 된다."**
+> **"In my hands, dreams turn into reality."**
 
-사람들의 경험을 자산으로 만들고 싶습니다.  
-상상에 머물던 것을 현실로 끌어내고, 흘러가는 영감을 붙잡는 개발자가 되고 싶습니다.
+I. Experience into assets
+II. imagination into reality
+III. inspiration into narrative
 
-- 🏫 **KNU** 컴퓨터공학과 4학년 · **P4C Lab** 학부 연구생
+- 🏫 KNU CS Senior · Undergraduate Researcher - P4C Lab
 - `2025.10 - 2025.12` **키컴** 더존ICT그룹 인턴
 - `2026.01 - 2026.02` **Upstage AI** 해커톤 4th - 일본 연수 참여
 
