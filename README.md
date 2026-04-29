@@ -10,9 +10,9 @@
 
 > **"In my hands, dreams turn into reality."**
 
- I. Experience into assets
- II. imagination into reality
- III. inspiration into narrative
+I. Experience into assets  
+II. imagination into reality  
+III. inspiration into narrative  
 
 - 🏫 KNU CS Senior · Undergraduate Researcher - P4C Lab
 - `2025.10 - 2025.12` **키컴** 더존ICT그룹 인턴
