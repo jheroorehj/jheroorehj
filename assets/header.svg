@@ -195,7 +195,7 @@
       <text class="path" x="278" y="292" textLength="9"   lengthAdjust="spacingAndGlyphs">~</text>
       <text class="sign" x="287" y="292" textLength="9"   lengthAdjust="spacingAndGlyphs">%</text>
       <text class="cmd"  x="305" y="292" textLength="126" lengthAdjust="spacingAndGlyphs">git commit -m </text>
-      <text class="str"  x="431" y="292" textLength="234" lengthAdjust="spacingAndGlyphs">"push imagination to prod"</text>
+      <text class="str"  x="431" y="292" textLength="234" lengthAdjust="spacingAndGlyphs"> "push imagination to prod"</text>
     </g>
     <g transform="translate(305,292)">
       <g class="tp2">
