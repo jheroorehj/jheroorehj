@@ -165,7 +165,7 @@
       <!-- role -->
       <g class="r2">
         <text class="out"  x="68"  y="158" textLength="216" lengthAdjust="spacingAndGlyphs">Undergraduate Researcher</text>
-        <text class="user" x="293" y="158" textLength="81"  lengthAdjust="spacingAndGlyphs">@ P4C Lab</text>
+        <text class="user" x="293" y="158" textLength="81"  lengthAdjust="spacingAndGlyphs">@P4C_Lab</text>
       </g>
 
       <line class="r3" x1="68" y1="175" x2="772" y2="175" stroke="#34343a" stroke-width="1"/>
