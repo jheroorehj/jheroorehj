@@ -18,7 +18,7 @@
 
 | 프로젝트 | 설명 |
 |:---|:---|
-| **[A-BEACON](https://github.com/jheroorehj/A-BEACON)** | `2026.04–07` 강원대 X+AI·SW 융합프로젝트 🏆**대상 - 몽골 연수**<br> 신인 작가<sub>ARTIST</sub> 를 비춰줄 등대<sub>BEACON</sub> |
+| **[A-BEACON](https://github.com/jheroorehj/A-BEACON)** | `2026.04–07` 강원대 X+AI·SW 융합프로젝트 🏆**대상 - 몽골 연수**<br> **A-BEACON**(신인 작가<sub>**A**RTIST</sub> 를 비춰줄 등대<sub>**BEACON**</sub>)는 신인작가의 좋은 작품이 빛을 볼 수 있도록 지원하는 아트커머스 플랫폼입니다.|
 | **[Silver-Sync](https://github.com/jheroorehj/Silver-Sync)** | `2026.03-06` 강원대 캡스톤디자인(의료AI트랙) <br> - |
 | **[WildCard](https://github.com/jheroorehj/WildCard)** | `2026.01–02` Upstage AI 해커톤 4th **일본 연수**<br> - |
 | **[DART:Lens](https://github.com/jheroorehj/DARTLENS)** | `2025.10–12` 더존ICT그룹(키컴) 인턴<br> - |
