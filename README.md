@@ -17,6 +17,7 @@ III. inspiration into narrative
 - 🏫 KNU CS Senior · Undergraduate Researcher - P4C Lab
 - `2025.10 - 2025.12` **키컴** 더존ICT그룹 인턴
 - `2026.01 - 2026.02` **Upstage AI** 해커톤 4th - 일본 연수 참여
+- `2026.04 - 2026.07` **강원대학교** X+AI·SW 융합프로젝트 대상 - 몽골 연수 참여
 
 ---
 
