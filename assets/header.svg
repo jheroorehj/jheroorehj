@@ -26,7 +26,7 @@
         font-size: 15px;
       }
       .user   { fill: #7ee787; }
-      .path   { fill: #79c0ff; }
+      .path   { fill: #e6edf3; }
       .sign   { fill: #8b949e; }
       .cmd    { fill: #e6edf3; }
       .str    { fill: #ffa657; }
@@ -36,7 +36,7 @@
       .field  { fill: #d2a8ff; }
       .label  { fill: #6e7681; }
       .dim    { fill: #8b949e; }
-      .hash   { fill: #79c0ff; }
+      .hash   { fill: #e6edf3; }
       .cursor { fill: #e6edf3; }
       .cover  { fill: #1c1c1e; }
       .highlight { fill: #d2a8ff; font-weight: 600; }
