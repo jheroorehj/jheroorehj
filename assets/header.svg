@@ -207,7 +207,10 @@
     <!-- line 8 : commit output -->
     <g class="ln8">
       <text class="hash" x="44"  y="320" textLength="126" lengthAdjust="spacingAndGlyphs">[main 3f9a2c1]</text>
-      <text class="dim"  x="179" y="320" textLength="288" lengthAdjust="spacingAndGlyphs">1 file changed, 1 dream realized</text>
+      <text x="179" y="320" class="mono">
+        <tspan class="dim">1 file changed, </tspan>
+        <tspan class="user">1 dream realized</tspan>
+      </text>
     </g>
 
     <!-- line 9 : idle prompt -->
