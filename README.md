@@ -1,99 +1,45 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jheroorehj/jheroorehj/main/assets/header.svg" alt="header" width="100%">
+  <img src="https://raw.githubusercontent.com/jheroorehj/jheroorehj/main/assets/header.svg?v=1" alt="yeong-ung-jang@jheroorehj" width="100%">
 </p>
-
-<div align="center">
-
-</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧭 Principles
 
 > **"In my hands, dreams turn into reality."**
 
-I. Experience into assets  
-II. imagination into reality  
-III. inspiration into narrative  
-
-- 🏫 KNU CS Senior · Undergraduate Researcher - P4C Lab
-- `2025.10 - 2025.12` **키컴** 더존ICT그룹 인턴
-- `2026.01 - 2026.02` **Upstage AI** 해커톤 4th - 일본 연수 참여
-- `2026.04 - 2026.07` **강원대학교** X+AI·SW 융합프로젝트 대상 - 몽골 연수 참여
+**I.** Experience into assets  
+**II.** Imagination into reality  
+**III.** Inspiration into narrative
 
 ---
 
-## 🛠️ Tech Stack
+## 🗂️ Selected Work
 
-<div align="center">
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & AI**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**Database & Infra**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<!-- 아래 테이블에 프로젝트를 직접 추가/수정하세요 -->
-
-| 프로젝트 | 설명 | 기술 스택 |
-|:---:|:---|:---|
-| 🔧 **프로젝트명** | 프로젝트 설명을 여기에 작성하세요 | `스택1` `스택2` |
-| 🔧 **프로젝트명** | 프로젝트 설명을 여기에 작성하세요 | `스택1` `스택2` |
-| 🔧 **프로젝트명** | 프로젝트 설명을 여기에 작성하세요 | `스택1` `스택2` |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jheroorehj&theme=tokyonight)
-![Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jheroorehj&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=jheroorehj&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-</div>
+| 프로젝트 | 설명 |
+|:---|:---|
+| **[A-BEACON](https://github.com/jheroorehj/A-BEACON)**<br>`2026.04–07` 강원대 X+AI·SW 융합프로젝트<br>🏆 **대상** · 몽골 연수 | 신진작가와 컬렉터를 잇는 파인아트 플랫폼. 방 사진을 올리면 CLIP 이미지 임베딩·텍스트 임베딩·색상 분석을 **6:3:1로 융합**해 공간에 어울리는 작품을 추천한다. 추천 엔진을 별도 서버로 분리해, 그쪽이 멈춰도 본 서비스는 계속 동작하도록 설계했다 |
+| **[WildCard](https://github.com/jheroorehj/WildCard)**<br>`2026.01–02` Upstage AI 해커톤 4th. 일본 연수 | 투자 손실의 원인을 종목이 아니라 **인지 편향**에서 찾는 멀티에이전트 시스템. 10가지 편향을 진단하고 6축 프로필로 투자자 유형을 규정한 뒤, 그 진단을 실행 가능한 학습 미션으로 연결한다 |
+| **[DART:Lens](https://github.com/jheroorehj/DARTLENS)**<br>`2025.10–12` 더존ICT그룹 인턴 | 보고서마다 이름이 제각각인 재무 계정과목을 **18개 표준 계정으로 정규화**해, 5년치 재무제표에서 9개 KPI를 자동 계산하는 기업 분석 플랫폼. 정규화 없이는 기업 간 비교 자체가 성립하지 않는다는 점이 출발점이었다 |
+| **[REPORT_GENERATOR](https://github.com/jheroorehj/REPORT_GENERATOR)**<br>개인 작업물 | 엑셀 성적 데이터에서 학생별 PDF 성적표를 자동 생성하는 데스크톱 앱. 문항별 정답률과 박스플롯 성취도 분석을 포함해, 학생 수만큼 반복되던 작업을 한 번의 실행으로 끝낸다 |
 
 ---
 
 ## 📚 Currently
 
-<!-- 지금 하고 있는 것들을 직접 채워주세요 -->
-- 🔭 ...
-- 🌱 ...
-- 🎯 ...
+- 🔭 
+- 🌱 
+- 🎯 
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-<!-- 좋아하는 문구가 있다면 여기에 넣어주세요 -->
-*"여기에 한 줄 문구를 넣어보세요"*
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jheroorehj&theme=tokyonight" alt="stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jheroorehj&theme=tokyonight" alt="languages">
+</p>
 
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jheroorehj&theme=tokyonight&hide_border=true" alt="streak">
+</p>
