@@ -39,6 +39,7 @@
       .hash   { fill: #79c0ff; }
       .cursor { fill: #e6edf3; }
       .cover  { fill: #1c1c1e; }
+      .highlight { fill: #d2a8ff; font-weight: 600; }
 
       /* ============================================================
          loop = 20s.  Sequence finishes at ~5.3s, then holds ~14.7s.
