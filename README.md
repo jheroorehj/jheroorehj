@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hello%2C%20I'm%20YEONGUNG%20JANG%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=CS%20AI%20HCI%20Developer&descSize=16&descAlignY=55&descColor=e0e0ff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hello%2C%20I'm%20YEONGUNG%20JANG%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=HCI%20Developer&descSize=16&descAlignY=55&descColor=e0e0ff)
 
 <div align="center">
 
