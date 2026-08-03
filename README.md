@@ -33,17 +33,3 @@
 - 🎯 
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=jheroorehj&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jheroorehj&theme=tokyo-night&hide_border=true" alt="Activity Graph">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jheroorehj&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies">
-</p>
