@@ -37,10 +37,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jheroorehj&theme=tokyonight" alt="stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jheroorehj&theme=tokyonight" alt="languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=jheroorehj&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jheroorehj&theme=tokyonight&hide_border=true" alt="streak">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jheroorehj&theme=tokyo-night" alt="Activity Graph">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jheroorehj&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies">
 </p>
