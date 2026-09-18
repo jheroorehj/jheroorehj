@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Principles
+## 🧭 Philosophy
 
 > **"In my hands, dreams turn into reality."**
 
@@ -28,8 +28,8 @@
 
 ## 📚 Currently
 
-- 🔭 
-- 🌱 
-- 🎯 
+- 🔭 Building AI · HCI · Product projects
+- 🌱 Exploring Human–Computer Interaction and AI Systems
+- 🎯 Turning ideas into working products and research prototypes
 
 ---
