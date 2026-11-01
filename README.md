@@ -14,7 +14,7 @@
 
 ---
 
-## 🗂️ Selected Work
+## 🗂️ Projects & Works
 
 | 프로젝트 | 설명 |
 |:---|:---|
