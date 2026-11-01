@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yeongung-jang-74b1a3408/">
-    <img src="https://img.shields.io/badge/LinkedIn-장영웅-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://raw.githubusercontent.com/jheroorehj/jheroorehj/main/assets/header.svg?v=1" alt="yeong-ung-jang@jheroorehj" width="100%">
   </a>
 </p>
 
