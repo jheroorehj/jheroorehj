@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 404" width="840" height="404" role="img" aria-label="yeong-ung-jang@jheroorehj terminal - about card">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 432" width="840" height="432" role="img" aria-label="yeong-ung-jang@jheroorehj terminal - about card">
   <defs>
     <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#3c3c3e"/>
@@ -13,7 +13,7 @@
       <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.30"/>
     </filter>
     <clipPath id="body">
-      <rect x="20" y="54" width="800" height="322"/>
+      <rect x="20" y="54" width="800" height="350"/>
     </clipPath>
     <clipPath id="cardclip">
       <rect x="44" y="102" width="752" height="160" rx="8"/>
@@ -105,6 +105,9 @@
       .ln9 { animation: ln9 20s linear infinite; }
       @keyframes ln9 { 0%, 26% { opacity: 0; } 26.3%, 100% { opacity: 1; } }
 
+      .ln10 { animation: ln10 20s linear infinite; }
+      @keyframes ln10 { 0%, 27.5% { opacity: 0; } 27.8%, 100% { opacity: 1; } }
+
       /* ---- final blinking prompt ---- */
       .blink { animation: blink 1.06s steps(1, end) infinite; }
       @keyframes blink { 0%, 50% { opacity: 1; } 50.01%, 100% { opacity: 0; } }
@@ -112,7 +115,7 @@
       @media (prefers-reduced-motion: reduce) {
         .tp1, .tp2, .cur1, .cur2, .card,
         .r1, .r2, .r3, .r4, .r5, .r6,
-        .ln7, .ln8, .ln9, .blink { animation: none; }
+        .ln7, .ln8, .ln9, .ln10, .blink { animation: none; }
         .tp1 { transform: translateX(108px); }
         .tp2 { transform: translateX(360px); }
         .cur1, .cur2 { opacity: 0; }
@@ -122,7 +125,7 @@
 
   <!-- window -->
   <g filter="url(#shadow)">
-    <rect x="20" y="16" width="800" height="360" rx="11" fill="#1c1c1e"/>
+    <rect x="20" y="16" width="800" height="388" rx="11" fill="#1c1c1e"/>
     <path d="M20 27a11 11 0 0 1 11-11h778a11 11 0 0 1 11 11v27H20z" fill="url(#bar)"/>
     <line x1="20" y1="54" x2="820" y2="54" stroke="#141416" stroke-width="1"/>
   </g>
@@ -219,7 +222,12 @@
       <text class="user" x="44"  y="348" textLength="225" lengthAdjust="spacingAndGlyphs">yeong-ung-jang@jheroorehj</text>
       <text class="path" x="278" y="348" textLength="9"   lengthAdjust="spacingAndGlyphs">~</text>
       <text class="sign" x="287" y="348" textLength="9"   lengthAdjust="spacingAndGlyphs">%</text>
-      <rect class="cursor blink" x="305" y="335" width="9" height="18"/>
+      <text class="cmd" x="305" y="348">open linkedin</text>
+    </g>
+
+    <!-- LinkedIn 안내: 헤더 전체를 클릭하면 이동 -->
+    <g class="ln10">
+      <text class="field" x="44" y="376">↗ Click anywhere to visit jheroorehj's LinkedIn</text>
     </g>
 
   </g>
