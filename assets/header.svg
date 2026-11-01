@@ -42,7 +42,7 @@
       .highlight { fill: #d2a8ff; font-weight: 600; }
 
       /* ============================================================
-         loop = 20s.  Sequence finishes at ~5.3s, then holds ~14.7s.
+         loop = 20s. After the commit, the prompt waits ~2.2s before typing LinkedIn.
          Percentages map to seconds as:  % = seconds x 5
          Typing speed = (end% - start%) / 5 / charCount seconds per char.
          Currently 70ms per char on both typed lines.
@@ -105,8 +105,30 @@
       .ln9 { animation: ln9 20s linear infinite; }
       @keyframes ln9 { 0%, 26% { opacity: 0; } 26.3%, 100% { opacity: 1; } }
 
+      /* Wait at the prompt, then type 13 characters at 70ms each. */
+      .tp3 { animation: tp3 20s steps(13, end) infinite; }
+      @keyframes tp3 {
+        0%, 37.5% { transform: translateX(0); }
+        42.05%, 100% { transform: translateX(117px); }
+      }
+      .wait-cursor { animation: wait-cursor 20s steps(1, end) infinite; }
+      @keyframes wait-cursor {
+        0%, 26.3% { opacity: 0; }
+        26.31% { opacity: 1; }
+        28.8% { opacity: 0; }
+        31.3% { opacity: 1; }
+        33.8% { opacity: 0; }
+        36.3% { opacity: 1; }
+        37.5%, 100% { opacity: 0; }
+      }
+      .cur3 { animation: cur3 20s steps(1, end) infinite; }
+      @keyframes cur3 {
+        0%, 37.49% { opacity: 0; }
+        37.5% { opacity: 1; }
+        43%, 100% { opacity: 0; }
+      }
       .ln10 { animation: ln10 20s linear infinite; }
-      @keyframes ln10 { 0%, 27.5% { opacity: 0; } 27.8%, 100% { opacity: 1; } }
+      @keyframes ln10 { 0%, 43% { opacity: 0; } 43.3%, 100% { opacity: 1; } }
 
       /* ---- final blinking prompt ---- */
       .blink { animation: blink 1.06s steps(1, end) infinite; }
@@ -115,10 +137,11 @@
       @media (prefers-reduced-motion: reduce) {
         .tp1, .tp2, .cur1, .cur2, .card,
         .r1, .r2, .r3, .r4, .r5, .r6,
-        .ln7, .ln8, .ln9, .ln10, .blink { animation: none; }
+        .ln7, .ln8, .ln9, .ln10, .blink, .tp3, .cur3, .wait-cursor { animation: none; }
         .tp1 { transform: translateX(108px); }
         .tp2 { transform: translateX(360px); }
-        .cur1, .cur2 { opacity: 0; }
+        .tp3 { transform: translateX(117px); }
+        .cur1, .cur2, .cur3, .wait-cursor { opacity: 0; }
       }
     ]]></style>
   </defs>
@@ -222,7 +245,14 @@
       <text class="user" x="44"  y="348" textLength="225" lengthAdjust="spacingAndGlyphs">yeong-ung-jang@jheroorehj</text>
       <text class="path" x="278" y="348" textLength="9"   lengthAdjust="spacingAndGlyphs">~</text>
       <text class="sign" x="287" y="348" textLength="9"   lengthAdjust="spacingAndGlyphs">%</text>
-      <text class="cmd" x="305" y="348">open linkedin</text>
+      <text class="cmd" x="305" y="348" textLength="117" lengthAdjust="spacingAndGlyphs">open linkedin</text>
+      <g transform="translate(305,348)">
+        <g class="tp3">
+          <rect class="cover" x="0" y="-16" width="150" height="24"/>
+          <rect class="cursor cur3" x="0" y="-13" width="9" height="18"/>
+        </g>
+        <rect class="cursor wait-cursor" x="0" y="-13" width="9" height="18"/>
+      </g>
     </g>
 
     <!-- LinkedIn 안내: 헤더 전체를 클릭하면 이동 -->
