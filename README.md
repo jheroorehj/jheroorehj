@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jheroorehj/jheroorehj/main/assets/header.svg?v=1" alt="yeong-ung-jang@jheroorehj" width="100%">
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/yeongung-jang-74b1a3408/">
     <img src="https://raw.githubusercontent.com/jheroorehj/jheroorehj/main/assets/header.svg?v=1" alt="yeong-ung-jang@jheroorehj" width="100%">
   </a>
