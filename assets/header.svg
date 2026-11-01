@@ -105,11 +105,11 @@
       .ln9 { animation: ln9 20s linear infinite; }
       @keyframes ln9 { 0%, 26% { opacity: 0; } 26.3%, 100% { opacity: 1; } }
 
-      /* Wait at the prompt, then type 13 characters at 70ms each. */
+      /* Wait at the prompt, then type 13 characters at 200ms each. */
       .tp3 { animation: tp3 20s steps(13, end) infinite; }
       @keyframes tp3 {
         0%, 37.5% { transform: translateX(0); }
-        42.05%, 100% { transform: translateX(117px); }
+        50.5%, 100% { transform: translateX(117px); }
       }
       .wait-cursor { animation: wait-cursor 20s steps(1, end) infinite; }
       @keyframes wait-cursor {
@@ -125,10 +125,10 @@
       @keyframes cur3 {
         0%, 37.49% { opacity: 0; }
         37.5% { opacity: 1; }
-        43%, 100% { opacity: 0; }
+        51.5%, 100% { opacity: 0; }
       }
       .ln10 { animation: ln10 20s linear infinite; }
-      @keyframes ln10 { 0%, 43% { opacity: 0; } 43.3%, 100% { opacity: 1; } }
+      @keyframes ln10 { 0%, 51.5% { opacity: 0; } 52%, 100% { opacity: 1; } }
 
       /* ---- final blinking prompt ---- */
       .blink { animation: blink 1.06s steps(1, end) infinite; }
